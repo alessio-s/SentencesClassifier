@@ -16,7 +16,7 @@ from keras.layers import LSTM
 BASE_DIR = '.'
 GLOVE_DIR = BASE_DIR + '/glove_features/'
 MAX_SEQUENCE_LENGTH = 150
-MAX_NB_WORDS = 4000		#4000
+MAX_NB_WORDS = 4000		#150
 EMBEDDING_DIM = 100
 GLOVE_FILENAME = 'glove_vectors_' + str(EMBEDDING_DIM) + 'd.txt'
 
