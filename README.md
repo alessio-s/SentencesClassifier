@@ -1,3 +1,3 @@
 # SentencesClassifier
 
-Simple RNN for sentences classification (certain/uncertain)
+Simple RNN for sentences classification (certain/uncertain).
