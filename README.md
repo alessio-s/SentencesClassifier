@@ -1,3 +1,3 @@
 # SentencesClassifier
 
-Simple RNN in Keras for sentences classification (certain/uncertain) using LSTM.
+Simple RNN in Keras for sentences classification using LSTM.
